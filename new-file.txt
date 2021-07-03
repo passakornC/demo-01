@@ -3,3 +3,5 @@ new file
 new line
 
 add line
+
+add 2
